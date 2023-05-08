@@ -1,3 +1,5 @@
+<div align=center>
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%201%20min-blue)
 
@@ -35,3 +37,4 @@ Mac                      5 hrs 58 mins       ███████████�
 
  Last Updated on 08/05/2023 17:07:20 UTC
 <!--END_SECTION:waka-->
+ </div>
