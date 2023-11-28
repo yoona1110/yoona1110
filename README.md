@@ -1,7 +1,7 @@
 <div align=center>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -29,7 +29,7 @@ JSON                     0 secs              ░░░░░░░░░░░�
 VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-github_blog              1 hr 5 mins         ████████████████████████░   97.47 % 
+github_blog              1 hr 6 mins         ████████████████████████░   97.47 % 
 Potato-thon-game_FRONT   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
@@ -37,6 +37,6 @@ Mac                      1 hr 7 mins         ███████████�
 ```
 
 
- Last Updated on 27/11/2023 18:36:01 UTC
+ Last Updated on 28/11/2023 18:37:19 UTC
 <!--END_SECTION:waka-->
  </div>
