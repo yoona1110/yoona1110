@@ -21,21 +21,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               58 mins             ███████████████████████░░   90.65 % 
-CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-github_blog              1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/12/2023 18:35:38 UTC
+ Last Updated on 13/12/2023 18:36:15 UTC
 <!--END_SECTION:waka-->
  </div>
