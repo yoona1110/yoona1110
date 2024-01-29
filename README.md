@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5b83d9&height=150&section=header" width="100%"/>
-<H2> Hello, I'm Yoon-a 👋 </H2>
+<H2> Hi there 👋 </H2>
 
 <a href="https://hits.seeyoufarm.com">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoona1110&count_bg=%235B83D9&title_bg=%23606060&icon=smugmug.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
@@ -57,14 +57,18 @@
  <br/>
  <br/>
  <br/>
- <a href="https://blog.naver.com/heoy_01 ">
- <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge& 로고= 네이버&logoColor=white"/>
+ 
+ **About Me**
+ <br/>
+ <br/>
+ <a href="https://blog.naver.com/heoy_01">
+ <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
  </a>
- <a href="https://www.instagram.com/h__yuna01 ">
- <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "/>
+ <a href="https://www.instagram.com/h__yuna01">
+ <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
- <a href="gjdbsdk18@icloud.com ">
- <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white "/>
+ <a href="mailto: gjdbsdk18@icloud.com">
+ <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
 </div>
-<img src=" https:// 캡슐- render.vercel.app/api?type= waving&color= 5b83d9& 키=150&섹션=바닥글" ="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5b83d9&height=150&section=footer" width="100%"/>
