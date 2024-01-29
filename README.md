@@ -7,7 +7,13 @@
 
 <br/>
 
-<H3> Project 👩‍💻 </H3>
+### 💁‍♀️ Who am I? ###
+- Hallym University student
+- I'm currently learning Web Front-End
+
+<br/>
+
+<H3> 📑 Project </H3>
 
 |Period|Title|Explanation|
 |------|---|---|
@@ -21,7 +27,7 @@
 
 <div align="left">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoona1110"/>
- <H3> Tech Stack 🛠️ </H3>
+ <H3> 🛠️ Tech Stack </H3>
  <img src="http://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white"/>
  <img src="http://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3"/>
  <img src="http://img.shields.io/badge/-Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -58,7 +64,7 @@
  <br/>
  <br/>
  
- **About Me**
+ **About Me👇**
  <br/>
  <br/>
  <a href="https://blog.naver.com/heoy_01">
