@@ -34,11 +34,12 @@
  <img src="http://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=black"/>
  <img src="http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
  <br/>
- <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
  <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
+ 
  <br/>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/> 
  <img src="http://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white"/>
