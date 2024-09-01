@@ -70,7 +70,7 @@
  <br/>
  <br/>
  <a href="https://velog.io/@heoy01/posts">
- <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+ <img src="https://img.shields.io/badge/blog-11B48A?style=for-the-badge&logo=velog&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/h__yuna01">
  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
