@@ -9,7 +9,6 @@
 
 ### 💁‍♀️ Who am I? ###
 - Hallym University student
-- I'm currently learning Web Front-End
 
 <br/>
 
