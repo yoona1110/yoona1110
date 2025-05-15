@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5b83d9&height=150&section=header" width="100%"/>
 <H2> Hi there 👋 </H2>
 
-<a href="https://hits.seeyoufarm.com">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoona1110&count_bg=%235B83D9&title_bg=%23606060&icon=smugmug.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
-</a>
-
-<br/>
-
 ### 💁‍♀️ Who am I? ###
 - Hallym University student
 
